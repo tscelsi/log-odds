@@ -7,8 +7,7 @@ conflict. Political Analysis 16(4): 372-40.
 
 To run this script, you should first generate or get a hold of three tsv files,
 i.e., two corpora for comparison and a third corpus for prior token frequency 
-estimation. The tsv's should have one token and the its frequency count on each 
-line.
+estimation. The tsv's should consist of one token and its frequency count per line.
 
 Usage
 =======
